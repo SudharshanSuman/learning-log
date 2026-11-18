@@ -15,6 +15,7 @@ Weekly notes on what I learn in robotics and embodied AI.
 
 | Week | Topic |
 |---|---|
+| [Day 01 · Isaac Lab contribution rules](notes/day-01.md) | What the guide requires, and my plan for a first PR |
 | [2026 · Week 47](2026/week-47.md) | Why plant stems need geometry, drag and per-plant solving |
 
 ## Projects these notes come from
