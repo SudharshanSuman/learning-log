@@ -15,6 +15,7 @@ Weekly notes on what I learn in robotics and embodied AI.
 
 | Week | Topic |
 |---|---|
+| [Isaac Lab Contribution Guidelines](notes/isaac-lab-contribution-guidelines.md) | Standalone study notes on the official guide |
 | [Day 01 · Isaac Lab contribution rules](notes/day-01.md) | What the guide requires, and my plan for a first PR |
 | [Day 01b · Isaac Lab coding style deep dive](notes/day-01-coding-style.md) | Config pattern, Warp rules, logging, pre-PR checklist |
 | [2026 · Week 47](2026/week-47.md) | Why plant stems need geometry, drag and per-plant solving |
