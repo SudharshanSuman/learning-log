@@ -1,5 +1,7 @@
 # Day 01 · Isaac Lab contribution rules
 
+**Part 2 (coding style and config patterns): [day-01-coding-style.md](day-01-coding-style.md)**
+
 **Source:** [Isaac Lab contribution guide](https://isaac-sim.github.io/IsaacLab/main/source/refs/contributing.html), read from `docs/source/refs/contributing.rst` in the `isaac-sim/IsaacLab` repo (`main`, commit `841286f`, version 3.0.0), plus `CONTRIBUTING.md`, `AGENTS.md`, `.github/PULL_REQUEST_TEMPLATE.md` and the issue templates. The rules below are what those files state. Anything marked **Not stated** is something I looked for and did not find.
 
 ---
